@@ -48,9 +48,9 @@ include("connection.php");
                 </div>
                 <div class="about-col2">
             <h1 class="sub-title">About me</h1>
-            <p>Hi, I'm [Your Name], a passionate guitarist with a deep love for creating music that speaks to the soul. Whether strumming acoustic melodies, shredding electric solos, or exploring new styles, the guitar has always been my voice and my outlet for creativity.
+            <p>Hi, I'm Ritesh Shrestha, a passionate guitarist with a deep love for creating music that speaks to the soul. Whether strumming acoustic melodies, shredding electric solos, or exploring new styles, the guitar has always been my voice and my outlet for creativity.
 
-                I specialize in [your styles, e.g., blues, rock, jazz, fingerstyle, etc.] and have been honing my craft for [number] years. For me, music is about connection—connecting with myself, my audience, and the endless possibilities that each note brings.
+                I specialize in rock music and have been honing my craft for 5 years. For me, music is about connection—connecting with myself, my audience, and the endless possibilities that each note brings.
                 
                 When I'm not playing, I'm composing, collaborating, or discovering fresh inspiration from the world around me. Let's make music together!</p>
             <div class="tab-titles">
